@@ -7,7 +7,7 @@ This global dataset compiles all records of the exponential decay constant *k* f
 - Kennedy JR, Blain CO (2025) A systematic review of marine macroalgal degradation: toward a better understanding of macroalgal carbon sequestration potential. *Journal of Phycology* 61:399–432. https://doi.org/10.1111/jpy.70031.
 - White LJ, Norkko A (2025) A path towards appropriate degradation experiments for assessing carbon sequestration potential of macroalgae. *Journal of Ecology* 113:2730–2743. https://doi.org/10.1111/1365-2745.70107.
 
-and an unpublished review of mine using unconstrained nonlinear least squares maximum likelihood estimation to derive *k* in f(*t*) = exp(−*k**t*). I did not deem it necessary to compile a bibliography because all sources can be accessed via the respective reviews and the `DOI_original` variable. The data are structured into these variables:
+and an unpublished review of mine using unconstrained nonlinear least squares maximum likelihood estimation to derive *k* in f(*t*) = exp(−*kt*). I did not deem it necessary to compile a bibliography because all sources can be accessed via the respective reviews and the `DOI_original` variable. The data are structured into these variables:
 
 - `Review` Review citation
 - `DOI` Digital object identifier for review
