@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1129347008.svg)](https://doi.org/10.5281/zenodo.18169931)
 # Macroalgal exponential decay dataset
 This global dataset compiles all records of the exponential decay constant *k* for macroalgae. `k.csv` contains all data which I compiled from reviews of *k* in
 
